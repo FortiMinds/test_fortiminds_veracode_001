@@ -4,7 +4,7 @@ repository:
   name: "test_fortiminds_veracode_001"
   full_name: "FortiMinds/test_fortiminds_veracode_001"
   branch: "test_fm_br"
-  commit_sha: "96f2037505a2ecd43ae36d14dd8f2b56bc65cd5c"
+  commit_sha: "4cdcf480c414250e172f72296ee8d82f1e0b3e9b"
 
 business_application:
   name: "test_fortiminds_veracode_001"
@@ -18,4 +18,4 @@ veracode:
 App sec platform:
   managed: true
   generated_by: "App sec platform - context-resolver"
-  generated_at: "2026-06-29T12:12:16.159Z"
+  generated_at: "2026-06-29T12:14:23.695Z"
