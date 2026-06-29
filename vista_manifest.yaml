@@ -1,0 +1,21 @@
+version: 1
+
+repository:
+  name: "test_fortiminds_veracode_001"
+  full_name: "FortiMinds/test_fortiminds_veracode_001"
+  branch: "test_fm_br"
+  commit_sha: "96f2037505a2ecd43ae36d14dd8f2b56bc65cd5c"
+
+business_application:
+  name: "test_fortiminds_veracode_001"
+  criticality: "HIGH"
+
+veracode:
+  profile_name: "test_fortiminds_veracode_001"
+  policy_name: "Sysco Very High and High Vulnerability Protect"
+  app_guid: "07578790-144a-4e73-8ce8-10c117a7d3cc"
+
+App sec platform:
+  managed: true
+  generated_by: "App sec platform - context-resolver"
+  generated_at: "2026-06-29T12:12:16.159Z"
