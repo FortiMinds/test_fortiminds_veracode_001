@@ -4,7 +4,6 @@ repository:
   name: "test_fortiminds_veracode_001"
   full_name: "FortiMinds/test_fortiminds_veracode_001"
   branch: "test_fm_br"
-  commit_sha: "4cdcf480c414250e172f72296ee8d82f1e0b3e9b"
 
 business_application:
   name: "test_fortiminds_veracode_001"
@@ -15,7 +14,6 @@ veracode:
   policy_name: "Sysco Very High and High Vulnerability Protect"
   app_guid: "07578790-144a-4e73-8ce8-10c117a7d3cc"
 
-App sec platform:
+vista:
   managed: true
-  generated_by: "App sec platform - context-resolver"
-  generated_at: "2026-06-29T12:14:23.695Z"
+  generated_by: "fortiminds-vista"
